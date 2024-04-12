@@ -1,5 +1,2 @@
-# Satellite Control
-
-satellite-control is a gui dashboard for controlling a satellite-node
-
-TODO docs
+> [!IMPORTANT]
+> This repo has been moved permanently to https://github.com/satellite-earth/dashboard-ui
